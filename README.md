@@ -1,0 +1,1 @@
+The Notebook has been written originally via a Kaggle notebook, and the  code has been run via the Kaggle cloud on GPU: https://www.kaggle.com/code/sevdaabadpour/dl-project-topviwecarobdtec-yolo-sabadpour-2
